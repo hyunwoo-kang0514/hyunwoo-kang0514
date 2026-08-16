@@ -15,7 +15,7 @@ I’m Harry, a Computer Science student at Columbia University interested in bac
 
 - **Languages:** Python, Java, JavaScript, C
 - **Frameworks & Libraries:** FastAPI, Spring
-- **Tools & Technologies:** Git, Linux, AWS, REST APIs
+- **Tools & Technologies:** Git, Linux, AWS, Netlify, REST APIs
 
 ## 📫 Let’s Connect!
 
